@@ -55,8 +55,20 @@ File Settings Editor -> Auto Import -> Java
 色调：85。饱和度：1 2 3。亮度：2 0 5
 204 232 207
 
+15 添加系统字体
+1 找到Adnroid Studio安装目录下lib文件夹中的resources.jar文件。
+2 双击fonts文件夹，点击添加选择需要添加的字体
+存在问题 以后再看
 
+16 Android Studio中添加重载函数的方法
+右击----Generate---Override Method---选择要重载的函数。
 
+17 快捷键
+注释 Ctrl + /
+取消注释
+
+18 格式化代码
+Ctrl + Alt + L
 
 
 
