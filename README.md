@@ -48,7 +48,7 @@ File OtherSettings DefaultProjectStructure
 12 Studio一个窗口只能有一个项目 一般切换到“project”模式
 
 13 自动导包
-File Settings Editor -> Auto Import -> Java
+File Settings Editor General -> Auto Import -> Java
 勾选3个框
 
 14 更改背景色
